@@ -12,11 +12,11 @@
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **React, FastAPI, PostgreSQL & Cloud Projects**
-- 🌱 Learning more about **AWS**, **DevOps**, and **Data Engineering**
-- 🛠️ I work mainly with: `React.js`, `Python`, `FastAPI`, `Node.js`, `PostgreSQL`, `MongoDB`
-- 📫 Reach me: **abubakarse005@gmail.com**
-- ⚡ Fun Fact: I love solving real-world problems with code!
+- I’m currently working on **React, FastAPI, PostgreSQL & Cloud Projects**
+- Learning more about **AWS**, **DevOps**, and **Data Engineering**
+- I work mainly with: `React.js`, `Python`, `FastAPI`, `Node.js`, `PostgreSQL`, `MongoDB`
+- Reach me: **abubakarse005@gmail.com**
+- Fun Fact: I love solving real-world problems with code!
 
 ---
 
