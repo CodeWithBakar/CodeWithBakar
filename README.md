@@ -129,6 +129,101 @@ const abuBakar = {
 
 ---
 
+<!-- Projects Section -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
+  Featured Projects
+</h2>
+
+<div align="center">
+  <!-- For organization repos, use the table approach instead of GitHub cards -->
+  <div align="center">
+    <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Voice-Based Feedback Platform</h3>
+          <p align="center">
+            <a href="https://voice-based-feedback-platform.fly.dev/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+            </a>
+            <a href="https://github.com/Codeaza-A-Creative-Agency/fe_voice_based_feedback_platform" target="_blank">
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            </a>
+          </p>
+          <p align="center">
+            A platform that collects and analyzes voice-based feedback from users, leveraging speech recognition technology.
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Blog App</h3>
+          <p align="center">
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" alt="Live Demo" />
+            </a>
+            <a href="https://github.com/Codeaza-A-Creative-Agency/internship_2025_q1/tree/abubakar_fullstack_blogapp" target="_blank">
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            </a>
+          </p>
+          <p align="center">
+            A platform where you can write blogs , view blogs , like and comment the blog post.
+          </p>
+        </td>
+      </tr>
+      <!-- You can add more project rows here -->
+      <!--
+      <tr>
+        <td width="50%">
+          <h3 align="center">Project 3</h3>
+          <p align="center">
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            </a>
+          </p>
+          <p align="center">
+            Short description of your project.
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Project 4</h3>
+          <p align="center">
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            </a>
+          </p>
+          <p align="center">
+            Short description of your project.
+          </p>
+        </td>
+      </tr>
+      -->
+    </table>
+  </div>
+</div>
+
+<p align="center">
+  <i>⭐ Star the repositories if you find them interesting!</i>
+</p>
+
+---
+
+<!-- Activity Graph -->
+<h2>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> 
+  Activity
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithbakar&theme=react-dark&hide_border=true" width="100%" />
+</div>
+
+---
+
 <!-- Snake Eating Contributions -->
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
