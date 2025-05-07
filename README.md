@@ -1,77 +1,157 @@
-<!-- Header with Greeting and Emoji -->
-<h1 align="center">Hey 👋, I'm <span style="color:#00BFFF">Abu Bakar</span></h1>
-<h3 align="center">💻 Full Stack Developer | ☁️ Cloud Explorer | 🧠 Lifelong Learner</h3>
+<!-- Animated Header with Wave and Gradient Name -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=0FADFF&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Abu+Bakar;Full+Stack+Developer;Cloud+Explorer;Problem+Solver" />
+</div>
 
-<!-- Profile Views -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Building digital solutions that matter
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
+
+<!-- Profile Views and Quick Links -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithbakar&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-<!-- About Me -->
-## 🙋‍♂️ About Me
-
-- I’m currently working on **React, FastAPI, PostgreSQL & Cloud Projects**
-- Learning more about **AWS**, **DevOps**, and **Data Engineering**
-- I work mainly with: `React.js`, `Python`, `FastAPI`, `Node.js`, `PostgreSQL`, `MongoDB`
-- Reach me: **abubakarse005@gmail.com**
-- Fun Fact: I love solving real-world problems with code!
-
----
-
-<!-- Contact -->
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abubakarse005" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=codewithbakar&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://linkedin.com/in/abubakarse005">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abubakarse005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/codewithbakar">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/codewithbakar?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
 
----
-
-<!-- Tech Stack -->
-## 🧰 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,fastapi,nodejs,html,css,mongodb,postgres,docker,aws,linux,git,figma,postman,cypress,selenium,jenkins,firebase" />
-</p>
-
----
-
-<!-- GitHub Trophies -->
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" alt="Trophies" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithbakar&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbakar&layout=compact&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithbakar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-## 🐍 Snake Eating My Contributions
+<!-- About Me Section with Icons -->
+<h2>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  About Me
+</h2>
 
-![GitHub Snake Light](https://github.com/CodeWithBakar/CodeWithBakar/blob/output/github-snake.svg)
+```javascript
+const abuBakar = {
+  currentFocus: "React, FastAPI, PostgreSQL & Cloud Projects",
+  learning: ["AWS", "DevOps", "Data Engineering"],
+  codeStack: {
+    frontend: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3"],
+    backend: ["Python", "FastAPI", "Node.js", "Express"],
+    database: ["PostgreSQL", "MongoDB", "Firebase"],
+    devOps: ["Docker", "AWS", "Jenkins", "Git"],
+    tools: ["Figma", "Postman", "Cypress", "Selenium", "Linux"]
+  },
+  contact: "abubakarse005@gmail.com",
+  funFact: "I love solving real-world problems with code!"
+};
+```
 
-![GitHub Snake Dark](https://github.com/CodeWithBakar/CodeWithBakar/blob/output/github-snake-dark.svg)
+<h3>⚡ Current Status:</h3>
 
-![GitHub Snake GIF](https://github.com/CodeWithBakar/CodeWithBakar/blob/output/ocean.gif)
+- 🔭 I'm currently working on **React, FastAPI, PostgreSQL & Cloud Projects**
+- 🌱 I'm learning more about **AWS**, **DevOps**, and **Data Engineering**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/codewithbakar)
+- 📫 How to reach me: **abubakarse005@gmail.com**
+- 💡 Fun Fact: I love solving real-world problems with code!
 
+---
 
+<!-- Tech Stack with Categories -->
+<h2>
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> 
+  Tech Stack & Tools
+</h2>
 
+<h3>🚀 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<h3>🛠 Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+<h3>☁️ Cloud & DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<h3>🗄 Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<h3>🔧 Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
+
+---
+
+<!-- GitHub Stats with Visual Elements -->
+<h2>
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="40"> 
+  GitHub Stats
+</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithbakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbakar&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=algolia&no-frame=true&margin-w=15&column=4" alt="Trophies" />
+</div>
+
+---
+
+<!-- Snake Eating Contributions -->
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Contribution Snake
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CodeWithBakar/CodeWithBakar/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/CodeWithBakar/CodeWithBakar/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/CodeWithBakar/CodeWithBakar/blob/output/ocean.gif" />
+  </picture>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  
+  <h3>Thanks for visiting! 👋</h3>
+  
+  <p>
+    <img src="https://profile-counter.glitch.me/{codewithbakar}/count.svg" alt="Visitor Count" />
+  </p>
+</div>
