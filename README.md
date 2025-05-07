@@ -65,5 +65,13 @@
 
 ---
 
+## 🐍 Snake Eating My Contributions
+
+![GitHub Snake Light](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/output/github-snake.svg)
+
+![GitHub Snake Dark](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/output/github-snake-dark.svg)
+
+![GitHub Snake GIF](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/output/ocean.gif)
+
 
 
