@@ -1,153 +1,173 @@
-<!-- Custom Coding Banner -->
+<!-- Enhanced Professional Banner with Developer Focus -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:9b59b6&height=300&section=header&text=Abu%20Bakar&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cloud%20Explorer%20|%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:3a1c71,50:d76d77,100:ffaf7b&height=300&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20Digital%20Solutions%20That%20Scale&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<!-- Animated Header with Wave and Gradient Name -->
+<!-- Animated Code Terminal Effect (More professional than just name) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=0FADFF&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Abu+Bakar;Full+Stack+Developer;Cloud+Explorer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=3498DB&center=true&vCenter=true&width=600&height=80&lines=const+developer+%3D+%7B%0A++name%3A+'Abu+Bakar'%2C%0A++role%3A+'Full+Stack+Developer'%0A%7D;" />
 </div>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  Building digital solutions that matter
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h3>
-
-<!-- Profile Views and Quick Links -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithbakar&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="https://linkedin.com/in/abubakarse005">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abubakarse005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/codewithbakar">
-    <img src="https://img.shields.io/github/followers/codewithbakar?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
-<!-- Coding Visual Element -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Contribution Snake" />
 </div>
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <b>Software Craftsmanship. Cloud Architecture. Performant Solutions.</b>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
+
+<!-- Quick Profile Stats Showcase -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithbakar&theme=tokyonight&hide_border=true&background=0D1117&ring=3498DB&fire=9B59B6&currStreakLabel=3498DB" alt="GitHub Streak Stats" />
 </div>
 
+<!-- Professional Links & Profile Views (Cleaner) -->
+<p align="center">
+  <a href="https://linkedin.com/in/abubakarse005">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abubakarse005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/codewithbakar">
+    <img src="https://img.shields.io/github/followers/codewithbakar?style=for-the-badge&logo=github&logoColor=white&label=Follow" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=codewithbakar&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+</p>
+
 ---
 
-<!-- About Me Section with Icons and Gradient -->
+<!-- Modernized About Me Section with Cleaner Visuals -->
 <div align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  <h2>About Me</h2>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me </h2>
 </div>
 
 ```javascript
-const abuBakar = {
-  currentFocus: "React, FastAPI, PostgreSQL & Cloud Projects",
-  learning: ["AWS", "DevOps", "Data Engineering"],
-  codeStack: {
-    frontend: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3"],
-    backend: ["Python", "FastAPI", "Node.js", "Express"],
-    database: ["PostgreSQL", "MongoDB", "Firebase"],
-    devOps: ["Docker", "AWS", "Jenkins", "Git"],
-    tools: ["Figma", "Postman", "Cypress", "Selenium", "Linux"]
+const engineer = {
+  name: "Abu Bakar",
+  title: "Software Engineer & Cloud Developer",
+  location: "Remote",
+  focus: "Building scalable web applications & cloud infrastructure",
+  
+  expertise: {
+    frontend: ["React.js", "Next.js", "TypeScript", "Modern CSS"],
+    backend: ["Python", "FastAPI", "Node.js", "REST/GraphQL APIs"],
+    database: ["PostgreSQL", "MongoDB", "Data Modeling"],
+    cloud: ["AWS", "Docker", "CI/CD", "Serverless"],
+    practices: ["Clean Code", "Test-Driven Development", "Agile"]
   },
-  contact: "abubakarse005@gmail.com",
-  funFact: "I love solving real-world problems with code!"
+  
+  currentFocus: "Creating high-performance, accessible web applications",
+  learning: ["Advanced AWS Services", "DevOps Best Practices", "Data Engineering"],
+  
+  /* Interests outside of code */
+  passions: ["Problem Solving", "Tech Innovation", "Continuous Learning"],
+  
+  challenge: "I'm working to master the entire web development ecosystem"
 };
 ```
 
-<h3>⚡ Current Status:</h3>
+<h3>👨‍💻 Currently:</h3>
 
-- 🔭 I'm currently working on **React, FastAPI, PostgreSQL & Cloud Projects**
-- 🌱 I'm learning more about **AWS**, **DevOps**, and **Data Engineering**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/codewithbakar)
-- 📫 How to reach me: **abubakarse005@gmail.com**
-- 💡 Fun Fact: I love solving real-world problems with code!
-
----
-
-<!-- Tech Stack with Categories and Animated Header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> 
-  <h2>Tech Stack & Tools</h2>
-</div>
-
-<div>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<h3>🚀 Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<h3>🛠 Frameworks & Libraries</h3>
-<p >
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-<h3>☁️ Cloud & DevOps</h3>
-<p >
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-<h3>🗄 Databases</h3>
-<p >
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-<h3>🔧 Tools</h3>
-<p >
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-<!-- Skill Progress Bars -->
-<h3 >💻 Skill Proficiency</h3>
-
-<div >
-  
-  ![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A&color=61DAFB)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=F7DF1E)
-  ![Python](https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=20232A&color=3776AB)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-75%25-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=20232A&color=009688)
-  ![AWS](https://img.shields.io/badge/AWS-70%25-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=20232A&color=FF9900)
-  
-</div>
+- 🔭 Working on **enterprise-grade React and FastAPI projects**
+- 🌱 Deepening knowledge in **cloud architecture** and **system design**
+- 🚀 Building solutions with **performance and scalability** in mind
+- 📫 Open to collaboration: **abubakarse005@gmail.com**
 
 ---
 
-<!-- GitHub Stats with Visual Elements -->
-
+<!-- Tech Stack: Reorganized More Professionally -->
 <div align="center">
-  <h3>GitHub Stats</h3>
+  <h2><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Professional Tech Stack</h2>
+</div>
+
+<h3>🛠️ Core Technologies</h3>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">DevOps & Cloud</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Professional Skill Gauge (More refined) -->
+<h3>⚡ Professional Proficiency</h3>
+
+<table>
+  <tr>
+    <td>
+      <h4>Frontend Development</h4>
+      <div style="background-color: #1a1b27; border-radius: 10px; height: 20px; width: 100%">
+        <div style="background-color: #3498db; height: 100%; width: 90%; border-radius: 10px"></div>
+      </div>
+    </td>
+    <td>
+      <h4>Backend Development</h4>
+      <div style="background-color: #1a1b27; border-radius: 10px; height: 20px; width: 100%">
+        <div style="background-color: #9b59b6; height: 100%; width: 85%; border-radius: 10px"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>Cloud Architecture</h4>
+      <div style="background-color: #1a1b27; border-radius: 10px; height: 20px; width: 100%">
+        <div style="background-color: #ff9900; height: 100%; width: 75%; border-radius: 10px"></div>
+      </div>
+    </td>
+    <td>
+      <h4>DevOps Practices</h4>
+      <div style="background-color: #1a1b27; border-radius: 10px; height: 20px; width: 100%">
+        <div style="background-color: #2ecc71; height: 100%; width: 70%; border-radius: 10px"></div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Visual Skill Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A&color=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=20232A&color=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-75%25-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=20232A&color=009688" alt="FastAPI">
+  <img src="https://img.shields.io/badge/AWS-70%25-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=20232A&color=FF9900" alt="AWS">
+</p>
+
+---
+
+<!-- GitHub Stats with More Advanced Layout -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics</h2>
 </div>
 
 <div align="center">
@@ -156,20 +176,14 @@ const abuBakar = {
 </div>
 
 <div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=algolia&no-frame=true&margin-w=15&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=algolia&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
-<!-- Projects Section with Animated Cards -->
+<!-- Projects: Professionally Presented -->
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
-  <h2>Featured Projects</h2>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects</h2>
 </div>
 
 <div align="center">
@@ -177,56 +191,55 @@ const abuBakar = {
     <tr>
       <td width="50%">
         <h3 align="center">Voice-Based Feedback Platform</h3>
-        <div align="center">
+        <p align="center">
           <a href="https://voice-based-feedback-platform.fly.dev/" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+            <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
           </a>
           <a href="https://github.com/Codeaza-A-Creative-Agency/fe_voice_based_feedback_platform" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            <img src="https://img.shields.io/badge/-View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
+        </p>
+        <p align="center">
+          <b>Advanced speech recognition application that transforms voice feedback into actionable insights.</b>
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         </div>
-        <p align="center">
-          A platform that collects and analyzes voice-based feedback from users, leveraging speech recognition technology.
-        </p>
-        <p align="center">
-          <code>React</code> • <code>FastAPI</code> • <code>Speech Recognition</code> • <code>PostgreSQL</code>
-        </p>
       </td>
       <td width="50%">
         <h3 align="center">Blog App</h3>
-        <div align="center">
+        <p align="center">
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" alt="Live Demo" />
+            <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
           </a>
           <a href="https://github.com/Codeaza-A-Creative-Agency/internship_2025_q1/tree/abubakar_fullstack_blogapp" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            <img src="https://img.shields.io/badge/-View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
+        </p>
+        <p align="center">
+          <b>Full-stack publishing platform with rich text editing and real-time engagement features.</b>
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
         </div>
-        <p align="center">
-          A platform where you can write blogs, view blogs, like and comment on blog posts.
-        </p>
-        <p align="center">
-          <code>Next.js</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>Tailwind</code>
-        </p>
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <i>⭐ Star the repositories if you find them interesting!</i>
+  <i>More projects available in my repositories</i>
 </p>
 
 ---
 
-<!-- Activity Graph with Gradient -->
+<!-- Activity Graph with Modern Styling -->
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> 
-  <h2>Activity</h2>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Development Activity</h2>
 </div>
 
 <div align="center">
@@ -235,40 +248,26 @@ const abuBakar = {
 
 ---
 
-<!-- Connect with me section -->
+<!-- Professional Connect Section -->
 <div align="center">
-  <h2>🤝 Connect With Me</h2>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h2>🤝 Professional Network</h2>
 </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/abubakarse005" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/codewithbakar" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abubakarse005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Add more social platforms as needed -->
 </p>
 
-<!-- Footer with Code Animation -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  
-  <h3>Thanks for visiting! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
-  
-  <p>
-    <img src="https://profile-counter.glitch.me/{codewithbakar}/count.svg" alt="Visitor Count" />
-  </p>
+  <p>Passionate about solving complex problems with elegant solutions.</p>
+  <p>Open to discussing software architecture, web development, or cloud engineering.</p>
 </div>
 
-<!-- Coding Footer Banner -->
+<!-- Professional Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Engineering%20Excellence&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" />
 </div>
