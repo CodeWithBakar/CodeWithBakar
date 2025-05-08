@@ -5,7 +5,7 @@
 
 <!-- Animated Header with Wave and Gradient Name -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Abu+Bakar;Full+Stack+Developer;Cloud+Explorer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=0FADFF&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Abu+Bakar;Full+Stack+Developer;Cloud+Explorer;Problem+Solver" />
 </div>
 
 <h3 align="center">
@@ -18,13 +18,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithbakar&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://linkedin.com/in/abubakarse005">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abubakarse005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/codewithbakar?tab=followers">
-    <img src="https://img.shields.io/github/followers/codewithbakar?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <a href="https://github.com/codewithbakar">
+    <img src="https://img.shields.io/github/followers/codewithbakar?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -144,24 +144,21 @@ const abuBakar = {
 
 ---
 
-<!-- GitHub Stats with Visual Elements and Gradient Cards -->
-<div align="center">
+<!-- GitHub Stats with Visual Elements -->
+
+<h2>
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="40"> 
-  <h2>GitHub Stats</h2>
-</div>
+  GitHub Stats
+</h2>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithbakar&show_icons=true&theme=radical&title_color=3498db&text_color=ffffff&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbakar&layout=compact&theme=radical&title_color=3498db&text_color=ffffff&bg_color=0D1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithbakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbakar&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=nord&no-frame=true&margin-w=15&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=algolia&no-frame=true&margin-w=15&column=4" alt="Trophies" />
 </div>
 
 ---
