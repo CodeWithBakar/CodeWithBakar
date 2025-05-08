@@ -146,10 +146,9 @@ const abuBakar = {
 
 <!-- GitHub Stats with Visual Elements -->
 
-<h2>
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="40"> 
-  GitHub Stats
-</h2>
+<div align="center">
+  <h3>GitHub Stats</h3>
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithbakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
