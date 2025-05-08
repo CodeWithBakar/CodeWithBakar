@@ -81,12 +81,12 @@ const abuBakar = {
   <h2>Tech Stack & Tools</h2>
 </div>
 
-<div align="center">
+<div>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <h3>🚀 Languages</h3>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -95,7 +95,7 @@ const abuBakar = {
 </p>
 
 <h3>🛠 Frameworks & Libraries</h3>
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -105,7 +105,7 @@ const abuBakar = {
 </p>
 
 <h3>☁️ Cloud & DevOps</h3>
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -114,14 +114,14 @@ const abuBakar = {
 </p>
 
 <h3>🗄 Databases</h3>
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 <h3>🔧 Tools</h3>
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -130,9 +130,9 @@ const abuBakar = {
 </p>
 
 <!-- Skill Progress Bars -->
-<h3 align="center">💻 Skill Proficiency</h3>
+<h3 >💻 Skill Proficiency</h3>
 
-<div align="center">
+<div >
   
   ![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A&color=61DAFB)
   ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=F7DF1E)
