@@ -67,15 +67,20 @@ const engineer = {
   
   challenge: "I'm working to master the entire web development ecosystem"
 };
+
+
 ```
- <img align="right" width="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
- 
-  <h3>👨‍💻 Currently:</h3>
+<div align="center">
+ <img width="300px" src="https://media.giphy.com/media/LoEDLunUwOYBqcekhE/giphy.gif?cid=ecf05e47jdw10qx60pbs1rp6lupf0v2gq0bg4v6vpawsqkq5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" />
+</div>
+
+ <h3>👨‍💻 Currently:</h3>
 
 - 🔭 Working on **enterprise-grade React and FastAPI projects**
 - 🌱 Deepening knowledge in **cloud architecture** and **system design**
 - 🚀 Building solutions with **performance and scalability** in mind
 - 📫 Open to collaboration: **abubakarse005@gmail.com**
+
   
  
   
