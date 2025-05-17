@@ -5,7 +5,7 @@
 
 <!-- Animated Code Terminal Effect (More professional than just name) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=3498DB&center=true&vCenter=true&width=600&height=80&lines=const+developer+%3D+%7B%0A++name%3A+'Abu+Bakar'%2C%0A++role%3A+'Full+Stack+Developer'%0A%7D;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=60&lines=React+%7C+Next.js+%7C+TypeScript;Python+%7C+FastAPI+%7C+Node.js;AWS+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Digital+Solutions" />
 </div>
 
 <div align="center">
@@ -68,6 +68,7 @@ const engineer = {
   challenge: "I'm working to master the entire web development ecosystem"
 };
 ```
+<img align="right" width="240px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
 <h3>👨‍💻 Currently:</h3>
 
@@ -178,62 +179,6 @@ const engineer = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=algolia&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
 </div>
-
----
-
-<!-- Projects: Professionally Presented -->
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Voice-Based Feedback Platform</h3>
-        <p align="center">
-          <a href="https://voice-based-feedback-platform.fly.dev/" target="_blank">
-            <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-          </a>
-          <a href="https://github.com/Codeaza-A-Creative-Agency/fe_voice_based_feedback_platform" target="_blank">
-            <img src="https://img.shields.io/badge/-View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          </a>
-        </p>
-        <p align="center">
-          <b>Advanced speech recognition application that transforms voice feedback into actionable insights.</b>
-        </p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Blog App</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-          </a>
-          <a href="https://github.com/Codeaza-A-Creative-Agency/internship_2025_q1/tree/abubakar_fullstack_blogapp" target="_blank">
-            <img src="https://img.shields.io/badge/-View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          </a>
-        </p>
-        <p align="center">
-          <b>Full-stack publishing platform with rich text editing and real-time engagement features.</b>
-        </p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <i>More projects available in my repositories</i>
-</p>
 
 ---
 
